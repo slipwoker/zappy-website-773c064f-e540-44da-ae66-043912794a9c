@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Transform your digital presence with expert social media marketing services and integrated communications. Drive engagement, boost conversions, and grow your brand with Suber today.
+
+### About
+https://example.com/about
+Meet the team behind cutting-edge integrated marketing communications strategies. We blend the 4Ps of marketing with innovation to deliver results that matter for your business.
+
+### Case Studies
+https://example.com/case-studies
+Explore real success stories showcasing our social media marketing services in action. See how we&#39;ve transformed brands through strategic campaigns and measurable ROI.
+
+### Contact
+https://example.com/contact
+Ready to amplify your brand? Connect with our integrated marketing communications specialists and discover how the 4Ps of marketing can revolutionize your business growth.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
